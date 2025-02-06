@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD for APi new'
+define service ZIN_SD_API_VIEW {
+  expose ZI_N_API_VIEW as ApiIview;
+}
